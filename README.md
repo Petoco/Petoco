@@ -17,4 +17,4 @@ const Petoco = {
 - 💸 [Petoco Shop](https://discord.gg/wxTMnE2Y52) My actualy shop where you can buy some discord/twitch bots
 
 # 📊 My Stats 📊
-![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=Gradient)
+![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=gradient)
