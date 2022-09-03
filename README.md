@@ -18,3 +18,4 @@ const Petoco = {
 
 # 📊 My Stats 📊
 ![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=gradient)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Petoco&repo=github-readme-stats" />
