@@ -18,4 +18,4 @@ const Petoco = {
 # My Stats
 ![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=highcontrast)
 
-[![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Petoco)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Petoco&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
