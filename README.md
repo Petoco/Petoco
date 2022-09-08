@@ -7,7 +7,8 @@ const Petoco = {
   Age: "14",
   Languajes: "Spanish and English",
   FavouriteColor: "Blue",
-  FavouriteLanguaje: "JavaScript"
+  FavouriteLanguaje: "JavaScript",
+  ProgramingProyects: "2"
 }
 ```
 
