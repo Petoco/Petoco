@@ -1,11 +1,11 @@
-# Who I am?
-👋 Hi there, I'm Petoco, I am a Discord.js/Twitch TMI.js developer, I have a music bot on discord called **[Ayax](https://ayax-xyz.glitch.me)** which is in more than 60 servers around the world
+# 👋 Who I am?
+Hi there, I'm Petoco, I am a Discord.js/Twitch TMI.js developer, I have a music bot on discord called **[Ayax](https://ayax-xyz.glitch.me)** which is in more than 60 servers around the world
 
-# My Stats
+# 📉 My Stats
 ![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=highcontrast)
 [![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Petoco&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-# About me
+# 📄 About me
 ```js
 const Petoco = {
   Age: "14",
@@ -16,6 +16,6 @@ const Petoco = {
 }
 ```
 
-# My Projects
+# 🔍 Chek Out My Projects
 - **[Ayax](https://ayax-xyz.glitch.me)** A high quality music bot with free volume control, audio filters, DJ system, custom playlists and much more!
-- **[Petoco Shop](https://discord.gg/wxTMnE2Y52)** My current shop where you can buy Discord and Twitch bots
+- **[Petoco Shop](https://discord.gg/wxTMnE2Y52)** My current shop where you can buy **DISCORD TEMPLATES/BOTS hosted 24/7** or **LAVALINK HOSTING**
