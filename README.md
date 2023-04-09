@@ -16,5 +16,5 @@ const Petoco = {
 ```
 
 # 💫 My Projects
-- **[Ayax](https://ayax-xyz.glitch.me)** a high quality **Discord Music Bot** with free volume control, audio filters, DJ system and much more!
+- **[Ayax](https://ayax.app)** a high quality **Discord Music Bot** with free volume control, audio filters, DJ system and much more!
 - **[Petoco Shop](https://discord.gg/wxTMnE2Y52)** a shop where you can buy a **Discord Server Desing / Bots Hosted 24/7** or a **Lavalink Hosting**
