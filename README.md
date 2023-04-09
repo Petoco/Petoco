@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Petoco, I'm 15 y/o and I'm a Discord.js developer
+I'm Petoco, I'm 15 y/o and I'm a javascript/html developer
 
 # 📈 My Stats
 ![Petoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petoco&show_icons=true&theme=highcontrast)
